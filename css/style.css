@@ -52,14 +52,12 @@
   /* Start Header */
   .header {
     background-color: white;
-<<<<<<< HEAD
     position: relative;
     -webkit-box-shadow: 0 0 10px #ddd;
     -moz-box-shadow: 0 0 10px #ddd;
     box-shadow: 0 0 10px #ddd;
   }
   .header .con {
-=======
     box-shadow: 0px 5px 19px 0px #0000003d;
     padding: 5px 15px;
     position: sticky;
@@ -68,7 +66,6 @@
 }
 
 header > .con{
->>>>>>> b692cd8e7b4a9ef059006d88eeb40934ed213c6c
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -285,14 +282,4 @@ header > .con{
     position: absolute;
     font-size: 15px;
 }
-
-<<<<<<< HEAD
 /* End Landing */
-=======
-footer span{
-    font-weight: bold;
-    color: var(--main-color);
-}
-
-/* Footer Ending */
->>>>>>> b692cd8e7b4a9ef059006d88eeb40934ed213c6c
